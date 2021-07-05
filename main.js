@@ -6,7 +6,7 @@ var app = new Vue({
     data: {
         listings: {
             development: [
-                {alias: '@theagiledev123', description: 'Full-stack web developer with special interests in decentralized applications, authentication, and geo-spatial applications.', contactPrefs: {aliasOnly: false, discord: 'theagiledev#8936', github: 'https://github.com/matthewjamesr', email: '', telegram: 'theagiledev'}}
+                {alias: '@theagiledev', description: 'Full-stack web developer with special interests in decentralized applications, authentication, and geo-spatial applications.', contactPrefs: {aliasOnly: false, discord: 'theagiledev#8936', github: 'https://github.com/matthewjamesr', email: '', telegram: 'theagiledev'}}
             ],
             art_design: [],
             finance: [],
