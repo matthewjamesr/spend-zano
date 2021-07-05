@@ -1,0 +1,85 @@
+.fa-discord {
+  color: #5865f2;
+}
+
+.nav-bar {
+  color: #fff;
+  margin-bottom: 0px;
+}
+.nav-bar #brand {
+  font-size: 18pt;
+  font-weight: 600;
+}
+.nav-bar span {
+  font-size: 14pt;
+  font-weight: 400;
+}
+.nav-bar ul.right {
+  font-size: 14pt;
+  height: 100%;
+}
+
+.hero {
+  position: relative;
+  min-height: 30vh;
+  width: 100%;
+  padding: 15px 0px 15px 0px;
+  border-top: 1px solid #455a64;
+}
+.hero p {
+  font-size: 14pt;
+  line-height: 25px;
+  letter-spacing: 1.5px;
+}
+.hero span {
+  position: relative;
+  top: 5px;
+  left: 2px;
+}
+
+.content {
+  position: relative;
+  top: 38%;
+  width: 100%;
+}
+.content .section {
+  border-radius: 5px;
+  padding: 15px;
+}
+.content .section .lead {
+  font-size: 20pt;
+  font-weight: 400;
+  width: 60%;
+  margin: 0px auto;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #cfd8dc;
+}
+.content .section .listed {
+  padding: 15px 15px 0px 15px;
+}
+.content .section .listed .user {
+  padding-top: 15px;
+}
+.content .section .listed .alias {
+  font-size: 18pt;
+  word-break: break-all;
+}
+.content .section .listed .alias p {
+  font-size: 15pt;
+}
+.content .section .listed .alias .contact {
+  margin-top: -10px;
+  margin-bottom: 25px;
+}
+.content .section .listed .alias .contact li {
+  position: relative;
+  display: inline;
+  top: 15px;
+}
+.content .section .listed .alias .contact i {
+  font-size: 20pt;
+}
+.content .section .listed .about p {
+  margin-top: 0px;
+  font-size: 14pt;
+}
